@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Michał 👋
 
-<!--
-**Majkkel/Majkkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a computer science student with a passion for technology and coding. This is where I explore, experiment, and collaborate on exciting projects as I continue to learn and grow in the world of software development.
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm currently pursuing a degree in computer science, honing my skills in programming and software design.
+- 💻 I have a broad interest in technology, including **backend development, frontend design**, and **mobile app creation**.
+- 📚 I love learning new things and am always eager to expand my knowledge in areas such as **algorithms, data structures**, and **project management**.
+- 🤝 I'm open to collaboration and always excited to participate in interesting open-source projects.
+
+## 📂 My Repositories
+
+On my profile, you'll find a diverse range of projects that I've worked on or am currently developing. I aim to regularly update my repositories, which include:
+
+- 🌐 **Web Projects**: Applications and websites built with modern technologies.
+- 📱 **Mobile Apps**: Simple to more complex mobile applications.
+- 📊 **Academic Projects**: Assignments and projects from my studies, showcasing my analytical and programming skills.
+
+## 🚀 Future Plans
+
+I plan to continue developing my skills in **software engineering**, while also diving deeper into **artificial intelligence** and **machine learning**. I'm also eager to further improve my teamwork and project management abilities.
+
+Thanks for stopping by! 😊
